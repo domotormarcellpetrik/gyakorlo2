@@ -10,5 +10,3 @@ if kereset >= 5000:
     print(f"Anna {kutyak_szama} kutyát sétáltatott {math.floor(ido/60)}:{ido%60} óra alatt, ezért {kereset} Ft-ot kapott. Ez elég a {gyujti}-ra/re.")
 else:
     print(f"Anna {kutyak_szama} kutyát sétáltatott {math.floor(ido/60)}:{ido%60} óra alatt, ezért {kereset} Ft-ot kapott. Ez még nem elég a {gyujti}-ra/re.")
-
-
