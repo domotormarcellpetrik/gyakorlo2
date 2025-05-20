@@ -1,0 +1,31 @@
+Bodri;keverék;7;Peti
+Molly;golden retriever;4;Juli
+Buksi;terrier;9;Peti
+Luna;beagle;2;Ádám
+Rex;német juhász;6;Kata
+Pamacs;uszkár;10;Ági
+Csoki;labrador;5;Peti
+Tappancs;keverék;3;Ádám
+Zsömi;puli;11;Bence
+Lizi;pincs;1;Eszti
+Fanni;bulldog;6;Gabi
+Zeusz;keverék;4;Nóra
+Kormi;spániel;8;Juli
+Mancs;golden retriever;2;Gergő
+Áfonya;uszkár;9;Gábor
+Daisy;labrador;3;Peti
+Max;német juhász;5;Kata
+Tobi;keverék;7;Eszti
+Néró;rottweiler;6;Ádám
+Bogyó;beagle;4;Juli
+Mázli;terrier;5;Ági
+Mokka;spániel;3;Bence
+Lola;keverék;10;Gabi
+Zara;vizsla;2;Gergő
+Beni;foxterrier;8;Nóra
+Szőröske;puli;6;Kata
+Brúnó;kuvasz;9;Ági
+Tücsök;keverék;4;Eszti
+Bogyo;keverék;2;Gergő
+Taco;csivava;3;Gabi
+Misi;komondor;7;Nóra
