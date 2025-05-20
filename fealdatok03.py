@@ -38,4 +38,12 @@ with open("kutyak.txt") as f:
     f2 = open(g.lower() + ".txt", "w")
     f2.write(s[0:-1])
     f2.close()
+    print("8 évnél idősebbek:")
+    for k in kutyak:
+        if k.eletkor > 8: print(k)
+    print("-------")
+    print("Keverék kutyák:")
+    for k in kutyak:
+        if k.fajta == "keverék": print(k)
+    print("-------")
 
